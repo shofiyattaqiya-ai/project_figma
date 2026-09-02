@@ -4,3 +4,6 @@ project ini tentang desain ui dan prototype terkait  sebagian komponen google fi
 ## prototype
 <img width="1167" height="415" alt="image" src="https://github.com/user-attachments/assets/5066292c-5fad-428f-b7db-c160ff477dc0" />
 
+## link
+https://www.figma.com/proto/hFy7ixWehxWualXsRmqJgk/ui-google-file?node-id=0-1&t=9yuuElh340ok8TuZ-1
+
