@@ -37,6 +37,6 @@ Aplikasi pengelola berkas seperti Google Files sangat krusial untuk manajemen me
 
 ---
 
-## 🔗 Tautan Proyek
+##  Tautan Proyek
 * **Interactive Prototype:** https://www.figma.com/proto/GPkG0iaLyxTufKlPbb0ueQ/google-file-ui?node-id=0-1&t=LNDmHHfj737j0OHj-1
 * **Postingan LinkedIn:** https://lnkd.in/p/gxqhBfVe
