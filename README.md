@@ -11,15 +11,16 @@ Aplikasi pengelola berkas seperti Google Files sangat krusial untuk manajemen me
 ---
 
 ## Poster Proyek Akhir
-<img width="4960" height="7016" alt="Sleek Google Files Project Poster Design_pages-to-jpg-0001 (1)" src="https://github.com/user-attachments/assets/cbe70833-eb5e-4d6c-bc84-0bbab85f0324" />
+<img width="2480" height="3508" alt="Academic UIUX Redesign Poster - Version Two_page-0001" src="https://github.com/user-attachments/assets/236af5db-8fb7-45c9-9d67-88cb014f0510" />
 
 
 ---
 
 ##  Alur Interaksi Prototipe (User Flow)
+<img width="1145" height="502" alt="image" src="https://github.com/user-attachments/assets/34cbc4b6-929a-4907-bab4-c5eb9124ab71" />
 
 
-<img width="1015" height="442" alt="image" src="https://github.com/user-attachments/assets/c664d4e7-5411-4473-a0c3-1cf6998ef5b5" />
+
 
 
 1. **Halaman Utama (Home):** Titik awal akses kategori media, berkas terbaru, dan status penyimpanan.
